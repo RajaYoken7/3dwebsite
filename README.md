@@ -37,6 +37,12 @@ Through this project, I gained hands-on experience with:
 
 ## ▶️ How to View It
 
+You can view the live website here:
+
+https://6a28658718f0eb7cf358c4e1--fantastic-daifuku-be5a75.netlify.app/
+
+If you want to run it locally:
+
 1. Clone the repository
 2. Open the project folder
 3. Launch the website in your browser
